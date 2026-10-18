@@ -4,6 +4,8 @@ This repository/guide documents the step-by-step process used to resolve a speci
 This occurs when the pc is connected to an external 4K display (e.g., a 65" TV) at 4K 60Hz under Linux Mint.
 
 I believe this solution could be applicable to other NUC models as well and is worth a shot!
+<img width="2048" height="1292" alt="img232" src="https://github.com/user-attachments/assets/b972da33-6bef-4946-8bc1-69889e9440f2" />
+
 
 ## The Symptoms
 - The display operates perfectly at 1080p 60Hz or 4K 30Hz.
