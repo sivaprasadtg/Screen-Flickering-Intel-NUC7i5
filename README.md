@@ -1,5 +1,4 @@
-# Screen-Flickering-Intel-NUC7i5
-Fixing 4K 60Hz Screen Flickering on Intel NUC7 Series (Linux Mint).
+# Fixing 4K 60Hz TV Screen Flickering from Intel NUC7 Series HDMI out(Linux Mint OS).
 
 This repository/guide documents the step-by-step process used to resolve a specific issue where a 7th-generation Intel NUC (NUC7i5BNK, i5-7260U) experiences random screen blinking and signal drops.
 This occurs when the pc is connected to an external 4K display (e.g., a 65" TV) at 4K 60Hz under Linux Mint.
