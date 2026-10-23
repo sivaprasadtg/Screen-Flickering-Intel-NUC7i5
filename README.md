@@ -65,7 +65,7 @@ This is done using **BobcatAuxISPTool.exe** program that's available from Asus's
 <img width="1567" height="217" alt="asus driver" src="https://github.com/user-attachments/assets/4cd228f2-40cd-4d66-b008-b931b0213911" />
 
 
-**Important:** The Intel HDMI Firmware Update Tool only runs on Windows. You will need to boot into a Windows To Go USB or a temporary Windows installation.
+**Important:** The `HDMI Firmware Update Tool only runs on Windows`. You will need to boot into a Windows To Go USB or a temporary Windows installation.
 
 #### The Windows 11 Troubleshooting Ordeal
 The tool recommends to use Windows 10, but its doable from Windows 11 as well (which I had access to).
